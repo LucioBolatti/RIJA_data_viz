@@ -1,0 +1,8 @@
+PLAZOS: Comentarle los plazos de cada una de las alternativas de abordaje, y ver si nos dan tiempo suficiente para hacer el micrositio.
+
+PREGUNTAS SOBRE LAS VARIABLES:
+
+- Unidad Subnacional: consultar si les interesa esta variable / desagregación. Tiene pocos datos
+- Impacto: consultar porque tiene pocos datos y la importancia de la misma
+- Año: motivo de datos faltantes y que significa cuando los casos tienen dos valores de año
+- Caracterización Preliminar (MZ): consultar que es esta variable y si les interesaría mostrarla
